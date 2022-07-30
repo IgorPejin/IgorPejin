@@ -4,7 +4,7 @@ Computer science student at faculty of computing, Belgrade.
 
 Looking for an opportunity to learn and sharpen my skills.
 
-Feel free to check some of my projects im working on.
+Feel free to check out some of the projects I'm working on.
 
 <!--
 **IgorPejin/IgorPejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
