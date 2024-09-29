@@ -1,10 +1,10 @@
 ### Hi there, my name is Igor 👋
 
-Computer science student at faculty of computing, Belgrade.
+Computer science student at faculty of computing Belgrade
 
-Looking for an opportunity to learn and sharpen my skills.
+Interested in web development, frontend and ux/ui, software engineering
 
-Feel free to check out some of the projects I'm working on.
+Feel free to check out some of my projects
 
 <!--
 **IgorPejin/IgorPejin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
